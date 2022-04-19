@@ -5,6 +5,12 @@ The purpose of this analysis was to show the performance of schools and their st
 ## Results
 ### District Analysis
 - District Analysis without adjusting for tampered grades
-![DistrictAnalysisOriginal]()
+![DistrictAnalysisOriginal](https://github.com/conpm/School_District_Analysis/blob/main/Resources/DistrictAnalysisOriginal.PNG)
 - District Analysis with adjustments
-![DistrictAnalysisAdjusted]()
+![DistrictAnalysisAdjusted](https://github.com/conpm/School_District_Analysis/blob/main/Resources/DistrictAnalysisAdjusted.PNG)
+  - As demonstrated in the two tables above, adjusting the analysis by removing potentially invalid results, has altered the district results for Average test scores as well as for passing percentages.
+## School Analysis
+- School Analysis without adjusting for tampered grades
+![SchoolAnalysisOriginal](https://github.com/conpm/School_District_Analysis/blob/main/Resources/SchoolAnalysisOriginal.PNG)
+- School Analysis with adjustments
+![SchoolAnalysisAdjusted](https://github.com/conpm/School_District_Analysis/blob/main/Resources/SchoolAnalysisAdjusted.PNG)
